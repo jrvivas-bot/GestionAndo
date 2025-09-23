@@ -1,0 +1,14 @@
+Proyectos=[{Nombre:"Nombre proyecto",
+            Tareas:[{Nombre:"Tarea x",
+			         Estado:"En proceso/Terminado"},...],
+            Estado:"En proceso/Terminado"},...]
+
+Funciones:
+ -Funcion Agregar_Proyecto
+ -Funcion Listar_Proyectos
+ -Funcion Agregar_Tarea
+ -Funcion Mostrar_Detalle
+ -Funcion Borrar_Tarea
+ -Funcion Modificar_Tarea
+
+ 
