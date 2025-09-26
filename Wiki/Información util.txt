@@ -1,0 +1,4 @@
+Información Util
+
+Pagina para generar imagen ASCII
+https://www.creativefabrica.com/es/tools/ascii-art-generator/?text=GestionAndo

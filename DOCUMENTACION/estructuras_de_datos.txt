@@ -1,7 +1,7 @@
 Proyectos=[{Nombre:"Nombre proyecto",
             Tareas:[{Nombre:"Tarea x",
-			         Estado:"En proceso/Terminado"},...],
-            Estado:"En proceso/Terminado"},...]
+			         Estado:"ACTIVO/TERMINADO"},...],
+            Estado:"ACTIVO/TERMINADO"},...]
 
 Funciones:
  -Funcion Agregar_Proyecto
@@ -11,4 +11,7 @@ Funciones:
  -Funcion Borrar_Tarea
  -Funcion Modificar_Tarea
 
- 
+
+
+Datos de ejemplo
+proyectos=[{"nombre":"Proyecto1","estado":"ACTIVO","tareas":[{"nombre":"tarea1","estado":"ACTIVO"},{"nombre":"tarea2","estado":"ACTIVO"},{"nombre":"tarea3","estado":"ACTIVO"}]},{"nombre":"Proyecto2","estado":"ACTIVO","tareas":[{"nombre":"tarea1","estado":"ACTIVO"},{"nombre":"tarea2","estado":"ACTIVO"},{"nombre":"tarea3","estado":"ACTIVO"},{"nombre":"tarea4","estado":"ACTIVO"}]}]
