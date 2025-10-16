@@ -9,7 +9,6 @@ print("                                                              ")
 print("\n\n", "\t"*3,"██████ MENU PRINCIPAL █████\n\n")
 print("\t"*3,"1) LISTAR PROYECTO")
 print("\t"*3,"1) CREAR NUEVO PROYECTO")
-print("\t"*3,"2) MODIFICAR PROYECTO EXISTENTE")
 print("\t"*3,"0) Para salir")
 
 opcion=input("\n\n\t"*1+"Elija una Opción :")
